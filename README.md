@@ -12,4 +12,3 @@
 - 🏔 I like natural scenery
 
 
-My father is ill and hospitalized. I won't have any activities recently
