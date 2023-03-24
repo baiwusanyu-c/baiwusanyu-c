@@ -9,6 +9,4 @@
 
 - 🍤🍻 Front-end architect
 - 🍓🥝  Open source enthusiast
-- 🏔 I like natural scenery
-
 
