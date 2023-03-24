@@ -5,8 +5,9 @@
   </picture>
 </a>
 
-### 👋 Hi there, I'm 白雾三语. <sup>()</sup>
+### 👋 Hi there, I'm 白雾三语. <sup>(or ByWu)</sup>
 
 - 🍤🍻 Front-end architect
 - 🍓🥝  Open source enthusiast
+- 🏔 I like natural scenery
 
